@@ -1,0 +1,2 @@
+(this["webpackJsonpstock-app"]=this["webpackJsonpstock-app"]||[]).push([[0],{9:function(t,c,e){"use strict";e.r(c);var n=e(1),o=e.n(n),i=e(3),s=e.n(i),p=e(0);var r=function(){return Object(p.jsxs)("div",{children:[Object(p.jsx)("h1",{children:"Stock Application"}),Object(p.jsx)("p",{children:"Welcome to the Stock Application!"})]})};s.a.render(Object(p.jsx)(o.a.StrictMode,{children:Object(p.jsx)(r,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.25d85682.chunk.js.map
